@@ -1,0 +1,12 @@
+{
+  "name": "asynclogger",
+  "version": "0.0.4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
